@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advance python and all sorts of mathematics required for machine learning
 - 💞️ I’m looking to collaborate on new projects and want to work on new technologies
 
-### [Connect with me 💬](https://www.linkedin.com/feed/)
+### [Connect with me 💬](https://www.linkedin.com/in/aayushverma2002/)
 
 <!---
 azimAVI/azimAVI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
