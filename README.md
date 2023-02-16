@@ -1,4 +1,4 @@
-- Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m Aayush Verma
+- Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I’m Aayush 
 - 🏫 I'm currently pursuing my Bachelors Degree from DIT University, Dehradun, Uttarakhand, India
 - 👀 I’m interested in workimg as team player and want to grow with my fellow temamates
 - 🌱 I’m currently learning advance python and all sorts of mathematics required for machine learning
